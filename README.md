@@ -1,2 +1,2 @@
-# Is-Prime-By-Python
-Logical Programming
+#Logical-Programming
+Logic
