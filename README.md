@@ -1,2 +1,1 @@
-#Logical-Programming
-Logic
+Logical-Programming
